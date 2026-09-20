@@ -70,5 +70,5 @@ Most automation work is invisible, a workflow humming in the background that onl
 ---
 
 <div align="center">
-Built by <a href="https://github.com/Samhita1008">Samhita</a>, founder of <a href="https://github.com/Samhita1008/edit-theory-agents">Edit Theory</a>
+Samhita — Edit Theory
 </div>
