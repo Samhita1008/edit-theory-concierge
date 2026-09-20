@@ -1,0 +1,6 @@
+{
+  "name": "Edit Theory Concierge",
+  "description": "A universal local-business booking assistant for restaurants, gyms, salons, parlours, and travel agencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
