@@ -1,5 +1,5 @@
 import React from 'react';
-import { Compass, RotateCcw } from 'lucide-react';
+import { RotateCcw } from 'lucide-react';
 
 interface HeaderProps {
   onReset: () => void;
@@ -11,9 +11,12 @@ export const Header: React.FC<HeaderProps> = ({ onReset, currentStep }) => {
     <header id="app-header" className="border-b border-slate-200 bg-white sticky top-0 z-30 shadow-xs">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
         <div className="flex items-center gap-3">
-          <div className="w-10 h-10 rounded-xl bg-indigo-600 text-white flex items-center justify-center shadow-xs">
-            <Compass className="w-5 h-5" />
-          </div>
+          <img
+            src="/icon.png"
+            alt="Edit Theory Concierge Logo"
+            className="w-10 h-10 rounded-xl shadow-xs object-cover border border-slate-200/60"
+            referrerPolicy="no-referrer"
+          />
           <div>
             <div className="flex items-center gap-2">
               <span className="font-serif font-bold text-lg text-slate-900 tracking-tight">

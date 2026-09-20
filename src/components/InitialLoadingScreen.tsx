@@ -39,9 +39,12 @@ export const InitialLoadingScreen: React.FC<InitialLoadingScreenProps> = ({
     >
       <div className="flex flex-col items-center text-center space-y-4 max-w-xs px-6 animate-fadeIn">
         {/* Minimalist Logo Mark */}
-        <div className="w-10 h-10 rounded-xl bg-slate-900 text-white flex items-center justify-center shadow-xs">
-          <Sparkles className="w-4 h-4 text-indigo-300" />
-        </div>
+        <img
+          src="/icon.png"
+          alt="Edit Theory Concierge Logo"
+          className="w-14 h-14 rounded-full shadow-md object-cover border border-slate-200"
+          referrerPolicy="no-referrer"
+        />
 
         {/* Minimal Title */}
         <div className="space-y-1">
