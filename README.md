@@ -9,7 +9,7 @@ Search a venue, book it, get a real confirmation, all in one flow.
 
 🟡 **Demo mode** — architecture is production-ready; two integrations activate on real credentials, see [Demo Mode](#demo-mode-disclosed) below.
 
-[Live Demo](#) · [Backend Case Study](https://github.com/Samhita1008/edit-theory-agents/tree/main/6-edit-theory-concierge) · [Report an Issue](../../issues)
+[Live Demo](https://edit-theory-concierge-s6ra.vercel.app) · [Backend Case Study](https://github.com/Samhita1008/edit-theory-agents/tree/main/6-edit-theory-concierge) · [Report an Issue](../../issues)
 
 </div>
 
