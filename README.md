@@ -11,12 +11,12 @@
 **One booking flow for every local business.**  
 Search a venue, book it, watch the status resolve to a real confirmation email.
 
-![React](https://img.shields.io/badge/React-0F3D3A?style=for-the-badge&labelColor=6C151E&logo=react&logoColor=F5DABF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F3D3A?style=for-the-badge&labelColor=6C151E&logo=typescript&logoColor=F5DABF)
-![Tailwind](https://img.shields.io/badge/Tailwind-0F3D3A?style=for-the-badge&labelColor=6C151E&logo=tailwindcss&logoColor=F5DABF)
-![Vite](https://img.shields.io/badge/Vite-0F3D3A?style=for-the-badge&labelColor=6C151E&logo=vite&logoColor=F5DABF)
-![n8n](https://img.shields.io/badge/n8n-backend-0F3D3A?style=for-the-badge&labelColor=6C151E&logo=n8n&logoColor=F5DABF)
-![Mode](https://img.shields.io/badge/mode-disclosed%20demo-0F3D3A?style=for-the-badge&labelColor=6C151E)
+![React](https://img.shields.io/badge/React-6C151E?style=for-the-badge&labelColor=6C151E&logo=react&logoColor=F5DABF)
+![TypeScript](https://img.shields.io/badge/TypeScript-6C151E?style=for-the-badge&labelColor=6C151E&logo=typescript&logoColor=F5DABF)
+![Tailwind](https://img.shields.io/badge/Tailwind-6C151E?style=for-the-badge&labelColor=6C151E&logo=tailwindcss&logoColor=F5DABF)
+![Vite](https://img.shields.io/badge/Vite-6C151E?style=for-the-badge&labelColor=6C151E&logo=vite&logoColor=F5DABF)
+![n8n](https://img.shields.io/badge/n8n-backend-6C151E?style=for-the-badge&labelColor=6C151E&logo=n8n&logoColor=F5DABF)
+![Mode](https://img.shields.io/badge/mode-disclosed%20demo-6C151E?style=for-the-badge&labelColor=6C151E)
 
 [**Live demo**](https://edit-theory-concierge-s6ra.vercel.app) · [Backend case study](https://github.com/Samhita1008/edit-theory-agents/tree/main/6-edit-theory-concierge) · [Report an issue](../../issues)
 
