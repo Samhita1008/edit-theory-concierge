@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-label="Illustrative wireframes of the four screens">
   <defs>
-    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#5CF2B0"/></marker>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#F5DABF"/></marker>
     <style>
       .f{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
-      .t{fill:#F2F7F4;font-size:14px;font-weight:600}
-      .s{fill:#8FA89C;font-size:12px}
-      .n{font-family:'SF Mono',Menlo,Consolas,monospace;fill:#5CF2B0;font-size:12px;letter-spacing:2px}
-      .ph{fill:#0d1713;stroke:#2a4a3b;stroke-width:1.5}
-      .in{fill:#14231c;stroke:#2a4a3b}
-      .card{fill:#12251c;stroke:#2a4a3b}
-      .ar{stroke:#5CF2B0;stroke-width:2;fill:none;marker-end:url(#a)}
+      .t{fill:#F5DABF;font-size:14px;font-weight:600}
+      .s{fill:#d4b49b;font-size:12px}
+      .n{font-family:'SF Mono',Menlo,Consolas,monospace;fill:#F5DABF;font-size:12px;letter-spacing:2px}
+      .ph{fill:#4a0e15;stroke:#8c3a44;stroke-width:1.5}
+      .in{fill:#521219;stroke:#8c3a44}
+      .card{fill:#521219;stroke:#8c3a44}
+      .ar{stroke:#F5DABF;stroke-width:2;fill:none;marker-end:url(#a)}
     </style>
   </defs>
-  <rect width="1200" height="520" rx="16" fill="#070b09"/>
+  <rect width="1200" height="520" rx="16" fill="#2b0a0e"/>
   <text x="40" y="40" class="n">THE FLOW · ILLUSTRATIVE WIREFRAMES, NOT LIVE SCREENSHOTS</text>
 
   <!-- 1 Discover -->
@@ -20,12 +20,12 @@
     <rect width="250" height="400" rx="20" class="ph"/>
     <text x="20" y="38" class="f t">Discover</text>
     <g class="f s"><text x="20" y="72">Pick a category</text></g>
-    <rect x="20" y="82" width="64" height="30" rx="15" fill="#5CF2B0"/><text x="52" y="102" text-anchor="middle" class="f" font-size="12" font-weight="700" fill="#04120b">Dining</text>
+    <rect x="20" y="82" width="64" height="30" rx="15" fill="#F5DABF"/><text x="52" y="102" text-anchor="middle" class="f" font-size="12" font-weight="700" fill="#2b0a0e">Dining</text>
     <rect x="92" y="82" width="50" height="30" rx="15" class="in"/><text x="117" y="102" text-anchor="middle" class="f s">Gym</text>
     <rect x="150" y="82" width="58" height="30" rx="15" class="in"/><text x="179" y="102" text-anchor="middle" class="f s">Salon</text>
     <text x="20" y="150" class="f s">Search in plain language</text>
     <rect x="20" y="160" width="210" height="40" rx="10" class="in"/><text x="32" y="185" class="f s">italian in chennai</text>
-    <rect x="20" y="340" width="210" height="42" rx="21" fill="#5CF2B0"/><text x="125" y="366" text-anchor="middle" class="f" font-size="14" font-weight="700" fill="#04120b">Search</text>
+    <rect x="20" y="340" width="210" height="42" rx="21" fill="#F5DABF"/><text x="125" y="366" text-anchor="middle" class="f" font-size="14" font-weight="700" fill="#2b0a0e">Search</text>
   </g>
   <path d="M300 270H335" class="ar"/>
 
@@ -34,7 +34,7 @@
     <rect width="250" height="400" rx="20" class="ph"/>
     <text x="20" y="38" class="f t">Results</text>
     <rect x="20" y="60" width="210" height="82" rx="12" class="card"/><text x="34" y="88" class="f t">Venue name</text><text x="34" y="110" class="f s">Italian restaurant</text><text x="34" y="128" class="f s">Address line</text>
-    <rect x="20" y="154" width="210" height="82" rx="12" class="card" stroke="#5CF2B0"/><text x="34" y="182" class="f t">Venue name</text><text x="34" y="204" class="f s">Italian restaurant</text><text x="34" y="222" class="f s">Address line</text>
+    <rect x="20" y="154" width="210" height="82" rx="12" class="card" stroke="#F5DABF"/><text x="34" y="182" class="f t">Venue name</text><text x="34" y="204" class="f s">Italian restaurant</text><text x="34" y="222" class="f s">Address line</text>
     <rect x="20" y="248" width="210" height="82" rx="12" class="card"/><text x="34" y="276" class="f t">Venue name</text><text x="34" y="298" class="f s">Italian restaurant</text><text x="34" y="316" class="f s">Address line</text>
   </g>
   <path d="M605 270H640" class="ar"/>
@@ -47,7 +47,7 @@
     <text x="20" y="140" class="f s">Email</text><rect x="20" y="148" width="210" height="34" rx="8" class="in"/>
     <text x="20" y="208" class="f s">Date and time</text><rect x="20" y="216" width="210" height="34" rx="8" class="in"/>
     <text x="20" y="276" class="f s">Party size (category-aware)</text><rect x="20" y="284" width="210" height="34" rx="8" class="in"/>
-    <rect x="20" y="340" width="210" height="42" rx="21" fill="#5CF2B0"/><text x="125" y="366" text-anchor="middle" class="f" font-size="14" font-weight="700" fill="#04120b">Request booking</text>
+    <rect x="20" y="340" width="210" height="42" rx="21" fill="#F5DABF"/><text x="125" y="366" text-anchor="middle" class="f" font-size="14" font-weight="700" fill="#2b0a0e">Request booking</text>
   </g>
   <path d="M910 270H945" class="ar"/>
 
@@ -55,10 +55,10 @@
   <g transform="translate(955,70)">
     <rect width="205" height="400" rx="20" class="ph"/>
     <text x="20" y="38" class="f t">Status</text>
-    <circle cx="102" cy="130" r="34" fill="none" stroke="#5CF2B0" stroke-width="3" stroke-dasharray="40 14"/>
+    <circle cx="102" cy="130" r="34" fill="none" stroke="#F5DABF" stroke-width="3" stroke-dasharray="40 14"/>
     <text x="102" y="198" text-anchor="middle" class="f t">Pending</text>
     <text x="102" y="220" text-anchor="middle" class="f s">Contacting the venue</text>
-    <line x1="20" y1="256" x2="185" y2="256" stroke="#2a4a3b"/>
+    <line x1="20" y1="256" x2="185" y2="256" stroke="#8c3a44"/>
     <text x="102" y="290" text-anchor="middle" class="f t">Confirmed</text>
     <text x="102" y="312" text-anchor="middle" class="f s">Reference ID + email</text>
     <text x="102" y="372" text-anchor="middle" class="f s">Polls until resolved</text>

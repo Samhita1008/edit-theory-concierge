@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="One booking flow for every local business."><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6C151E"/><stop offset="1" stop-color="#34090f"/></linearGradient>
+<pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#F5DABF" fill-opacity=".09"/></pattern>
+<clipPath id="panelclip"><polygon points="840,0 1200,0 1200,320 768,320"/></clipPath><style>
+.k{font-family:'SF Mono',Menlo,Consolas,monospace;fill:#F5DABF;opacity:.75;letter-spacing:4px}
+.t{font-family:Georgia,'Times New Roman',serif;fill:#F5DABF;font-weight:700}
+.s{font-family:'Segoe UI',Helvetica,Arial,sans-serif;fill:#d4b49b}
+.rise{animation:r 1s cubic-bezier(.2,.7,.2,1) both}
+.d1{animation-delay:.15s}.d2{animation-delay:.3s}.d3{animation-delay:.45s}
+@keyframes r{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.flow{stroke-dasharray:6 8;animation:f 2.2s linear infinite}
+@keyframes f{to{stroke-dashoffset:-28}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:p 3.2s ease-in-out infinite}
+@keyframes p{0%,100%{transform:scale(1);opacity:.9}50%{transform:scale(1.14);opacity:1}}
+.blink{animation:b 1.2s steps(1) infinite}@keyframes b{50%{opacity:0}}
+.drift{animation:dr 14s ease-in-out infinite alternate}@keyframes dr{to{transform:translate(-14px,8px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style></defs><rect width="1200" height="320" fill="url(#bg)"/><rect width="1200" height="320" fill="url(#dots)"/><g clip-path="url(#panelclip)"><rect width="1200" height="320" fill="#0F3D3A"/><rect width="1200" height="320" fill="url(#dots)" opacity=".7"/></g><polygon points="840,0 843,0 771,320 768,320" fill="#F5DABF" opacity=".5"/><g class="drift"><g transform="translate(882.0,100.0) scale(0.8)" fill="none" stroke="#F5DABF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="0" width="210" height="58" rx="14"/><path d="M26 58l-8 20 26-20"/><rect x="110" y="86" width="210" height="58" rx="14" fill="#F5DABF" fill-opacity=".16" class="pulse"/><path d="M296 144l8 20-26-20"/><path class="flow" d="M24 29H150M134 115H296" stroke-opacity=".6"/></g></g><text x="64" y="70" class="k rise" font-size="15">EDIT THEORY  ·  CONCIERGE</text><text x="64" y="142" class="t rise d1" font-size="58">One booking flow</text><text x="64" y="196" class="t rise d2" font-size="58" font-style="italic" font-weight="400">for every local business.</text><text x="64" y="244" class="s rise d3" font-size="21">Search a venue, book it, get a real confirmation email.</text></svg>
